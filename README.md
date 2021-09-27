@@ -11,4 +11,5 @@
 ## 5、打开pytorch官网，进入下载安装页面 https://pytorch.org/get-started/locally/
 选择相应的版本号
 ![image](https://user-images.githubusercontent.com/44308340/134905246-a178c886-40b5-41e7-93f5-acf7cb717187.png)
+
 执行响应命令，即可完成安装 
